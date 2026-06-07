@@ -2,28 +2,52 @@
 
 ## Objective
 
-Understand the basic cloud service models and deployment models used in Azure.
+Understand the difference between Infrastructure as a Service (IaaS) and Platform as a Service (PaaS).
 
-## Topics Covered
+## Tasks
 
-- IaaS
-- PaaS
-- SaaS
-- Public Cloud
-- Private Cloud
-- Hybrid Cloud
-- Shared Responsibility Model
+- [x] Create a Virtual Machine (IaaS)
+- [x] Create a Web App (PaaS)
 
-## Lab Tasks
+---
 
-- Create a virtual machine to understand IaaS
-- Create a web app to understand PaaS
-- Compare IaaS and PaaS
+## Azure Virtual Machine (IaaS)
 
-## Screenshots
+### Description
 
-Add screenshots here.
+Azure Virtual Machines are an example of Infrastructure as a Service (IaaS). Microsoft manages the physical infrastructure while the customer manages the operating system, applications, and configuration.
 
-## What I Learned
+### VM Configuration
 
-- 
+![VM Configuration](vm-config.png)
+
+### Deployment Complete
+
+![Deployment Complete](vm-deployment-complete.png)
+
+### VM Overview
+
+![VM Overview](vm-overview.png)
+
+---
+
+## Azure Web App (PaaS)
+
+### Description
+
+Azure App Service is an example of Platform as a Service (PaaS). Microsoft manages the underlying infrastructure, operating system, and runtime while the customer focuses on deploying and managing the application.
+
+### Screenshots
+
+*(Add your Web App screenshots here after completing the lab.)*
+
+---
+
+## Key Learning
+
+| Service | Cloud Model |
+|----------|------------|
+| Azure Virtual Machine | IaaS |
+| Azure App Service | PaaS |
+
+This lab demonstrated the difference between Infrastructure as a Service (IaaS) and Platform as a Service (PaaS) in Azure.
