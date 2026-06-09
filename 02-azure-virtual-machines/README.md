@@ -34,6 +34,9 @@ Deploy and connect to a Windows Server virtual machine in Microsoft Azure.
 ### Windows Server Desktop
 ![Windows Server Desktop](04-windows-server-desktop.png)
 
+### VM Stopped (Deallocated)
+![VM Stopped (Deallocated)](05-vm-stopped-deallocated.png)
+
 ## Key Takeaways
 
 - Learned how to deploy a Windows Server virtual machine in Azure.
