@@ -15,7 +15,6 @@ Deploy and connect to a Windows Server virtual machine in Microsoft Azure.
 
 - [x] Create a Windows Server VM
 - [x] Connect using Remote Desktop Protocol (RDP)
-- [x] Explore VM sizing options
 - [x] Stop and deallocate the VM
 
 ## Screenshots
