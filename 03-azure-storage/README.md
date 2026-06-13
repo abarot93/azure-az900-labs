@@ -24,23 +24,23 @@ Gain hands-on experience with Azure Storage services and learn how to create and
 
 ### Storage Account Created
 
-![Storage Account Created](images/01-storage-account-created.png)
+![Storage Account Created](01-storage-account-created.png)
 
 ### Blob Container Created
 
-![Blob Container Created](images/02-blob-container-created.png)
+![Blob Container Created](02-blob-container-created.png)
 
 ### File Uploaded to Blob Storage
 
-![Blob Upload](images/03-blob-uploaded.png)
+![Blob Upload](03-blob-uploaded.png)
 
 ### Azure File Share Created
 
-![File Share Created](images/04-file-share-created.png)
+![File Share Created](04-file-share-created.png)
 
 ### File Uploaded to Azure File Share
 
-![File Share Upload](images/05-file-share-uploaded.png)
+![File Share Upload](05-file-share-uploaded.png)
 
 ## Key Takeaways
 
